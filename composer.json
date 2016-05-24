@@ -1,0 +1,19 @@
+{
+    "name": "bhupesh/phpqrcode",
+    "type": "library",
+    "description": "PHP QR Code, Create QR Codes in PHP",
+    "keywords": ["qrcode"],
+    "homepage": "http://phpqrcode.sourceforge.net/",
+    "license": "LGPL 3",
+    "authors": [
+        {
+            "name": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "files": ["qrlib.php"]
+    }
+}
